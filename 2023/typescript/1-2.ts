@@ -8,6 +8,8 @@ import * as readline from 'readline';
  * What is the sum of all of the calibration values?
  * 
  * NOTE: digits can be english words (i.e. eight)
+ * 
+ * https://adventofcode.com/2023/day/1
  */
 
 const PUZZLE_INPUT_PATH = '../inputs/1-1.txt';

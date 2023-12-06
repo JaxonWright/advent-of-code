@@ -6,6 +6,8 @@ import * as readline from 'readline';
  * 
  * On each line, the calibration value can be found by combining the first digit and the last digit (in that order) to form a single two-digit number.
  * What is the sum of all of the calibration values?
+ * 
+ * https://adventofcode.com/2023/day/1
  */
 
 const PUZZLE_INPUT_PATH = '../inputs/1-1.txt';
