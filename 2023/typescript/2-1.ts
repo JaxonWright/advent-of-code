@@ -51,7 +51,7 @@ lineReader.on('line', (line) => {
 
     console.log(colorMax);
     
-    if (colorMax.red <= VALIDATION.red && colorMax.red <= VALIDATION.red && colorMax.blue <= VALIDATION.blue) {
+    if (colorMax.red <= VALIDATION.red && colorMax.green <= VALIDATION.green && colorMax.blue <= VALIDATION.blue) {
         validGames.push(gameID);
         console.log('🟢 valid')
     } else {
