@@ -6,7 +6,7 @@ import * as readline from 'readline';
  * 
  * Short description of problem
  * 
- * https://adventofcode.com/2023/day/#
+ * https://adventofcode.com/2024/day/#
  */
 
 const PUZZLE_INPUT_PATH = '../inputs/#-#.txt';
